@@ -37,6 +37,5 @@ public class LoginController {
 			model.addAttribute("error", "Please enter Details");
 			return "login";
 		}
-	}
 
 }
